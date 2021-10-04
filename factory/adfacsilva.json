@@ -1,0 +1,9 @@
+{
+	"name": "adfacsilva",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "55929fdf-15df-4e4f-aae3-87a441fe3325",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
